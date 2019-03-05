@@ -36,5 +36,3 @@ RewriteRule ^data/1495$ http://mskgent.be/collection/work/data/1906-I [R=302,NC,
 RewriteRule ^representation/1495$ http://mskgent.be/collection/work/representation/1906-I [R=302,NC,NE,L]
 RewriteRule ^data/1503$ http://mskgent.be/collection/work/data/1906-L [R=302,NC,NE,L]
 RewriteRule ^representation/1503$ http://mskgent.be/collection/work/representation/1906-L [R=302,NC,NE,L]
-RewriteRule ^data/1504$ http://mskgent.be/collection/work/data/1906-U [R=302,NC,NE,L]
-RewriteRule ^data/1506$ http://mskgent.be/collection/work/data/1906-N [R=302,NC,NE,L]
